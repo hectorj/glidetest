@@ -1,5 +1,3 @@
 package: github.com/davecgh/glidetest
 import:
-- package: github.com/syndtr/goleveldb
-  subpackages:
-  - leveldb
+- package: github.com/syndtr/goleveldb/leveldb
